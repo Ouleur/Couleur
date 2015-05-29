@@ -9,7 +9,7 @@ Licence: GPL2
 
 from tkinter import *
 """ BKM couleur est une apllication pour les webmasters
-   BKM couleur produit les codes de couleurs en hexadecimal """
+   BKM Vianny couleur produit les codes de couleurs en hexadecimal """
 
 rougeb ="00"
 vertb ="00"
